@@ -28,7 +28,7 @@ Este proyecto consiste en una aplicación Java de consola que permite convertir 
  ## :bridge_at_night: Estructura del proyecto
 -  `Principal`: Clase principal que interactua con el usuario y llamadas a los métodos de conversión.
 -  `ConsultaApi`: Clase con métodos que se conectan a la API, obtienen la tasa de cambio y calculan la conversión.
--  `ConversionApi (opcional): Clase record que puede representar un monto o servir como envoltorio para los datos de entrada.
+-  `ConversionApi`: Clase record que puede representar un monto o servir como envoltorio para los datos de entrada.
 - `Conversor`: Clase que contiene el menú
 - `Conversion`: Clase que representa los atributos a ingresar
 
