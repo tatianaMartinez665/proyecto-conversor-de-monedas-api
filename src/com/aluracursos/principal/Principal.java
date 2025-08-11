@@ -1,3 +1,9 @@
+package com.aluracursos.principal;
+
+import com.aluracursos.model.Conversion;
+import com.aluracursos.principal.Conversor;
+import com.aluracursos.service.ConsultaApi;
+
 import java.io.IOException;
 import java.util.Scanner;
 

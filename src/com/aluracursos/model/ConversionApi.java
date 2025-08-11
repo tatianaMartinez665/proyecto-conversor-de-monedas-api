@@ -1,3 +1,5 @@
+package com.aluracursos.model;
+
 public record ConversionApi(String  base_code,
                             String target_code,
                             String result,

@@ -1,3 +1,6 @@
+package com.aluracursos.service;
+
+import com.aluracursos.model.ConversionApi;
 import com.google.gson.Gson;
 
 import java.io.IOException;

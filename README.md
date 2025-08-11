@@ -1,4 +1,4 @@
-<h1 align="center"> Conversor de monedas usando ExchangeRate API</h1>
+<h1 align="center"> com.aluracursos.principal.Conversor de monedas usando ExchangeRate API</h1>
 <img width="900" height="512" alt="png-clipart-currency-converter-money-trade-euro-euro-text-investment" src="https://github.com/user-attachments/assets/1147f05c-3917-4ef9-970d-e235797cd9ac" />
 
 
@@ -26,11 +26,11 @@ Este proyecto consiste en una aplicación Java de consola que permite convertir 
    - El resultado convertido.
  
  ## :bridge_at_night: Estructura del proyecto
--  `Principal`: Clase principal que interactua con el usuario y llamadas a los métodos de conversión.
--  `ConsultaApi`: Clase con métodos que se conectan a la API, obtienen la tasa de cambio y calculan la conversión.
--  `ConversionApi`: Clase record que puede representar un monto o servir como envoltorio para los datos de entrada.
-- `Conversor`: Clase que contiene el menú
-- `Conversion`: Clase que representa los atributos a ingresar
+-  `com.aluracursos.principal.Principal`: Clase principal que interactua con el usuario y llamadas a los métodos de conversión.
+-  `com.aluracursos.service.ConsultaApi`: Clase con métodos que se conectan a la API, obtienen la tasa de cambio y calculan la conversión.
+-  `com.aluracursos.model.ConversionApi`: Clase record que puede representar un monto o servir como envoltorio para los datos de entrada.
+- `com.aluracursos.principal.Conversor`: Clase que contiene el menú
+- `com.aluracursos.model.Conversion`: Clase que representa los atributos a ingresar
 
   
 ## :pushpin: Conociendo ExchangeRate Api

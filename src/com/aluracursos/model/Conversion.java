@@ -1,3 +1,5 @@
+package com.aluracursos.model;
+
 public class Conversion {
     private String monedaOrigen;
     private String monedaDestino;
@@ -36,7 +38,7 @@ public class Conversion {
 
     @Override
     public String toString() {
-        return "Conversion: " +
+        return "com.aluracursos.model.Conversion: " +
                 "monedaOrigen='" + monedaOrigen  +
                 ", monedaDestino='" + monedaDestino  +
                 ", monto=" + monto +

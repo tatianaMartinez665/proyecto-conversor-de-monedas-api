@@ -1,3 +1,5 @@
+package com.aluracursos.principal;
+
 public class Conversor {
     public static void excibirMenu(){
         System.out.println("""
