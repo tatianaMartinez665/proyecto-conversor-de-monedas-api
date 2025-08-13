@@ -39,7 +39,8 @@ public class Principal {
                 double tasa = conversor.conversion(origen,destino);
                 double resultado = monto * tasa;
                 Conversion conversion = new Conversion(origen,destino,monto,resultado);
-                System.out.println("El valor "+monto+" ["+origen+"] "+" corresponde al valor final de =>>> "+resultado+" ["+destino+"] ");
+                //System.out.println("El valor "+monto+" ["+origen+"] "+" corresponde al valor final de =>>> "+resultado+" ["+destino+"] ");
+                System.out.printf("El valor %.2f [%s] corresponde al valor final de =>>> %.2f [%s]\n", monto, origen, resultado, destino);
             } catch (IOException | InterruptedException e){
                 System.out.println("Se produció un error inesperado");
             }
