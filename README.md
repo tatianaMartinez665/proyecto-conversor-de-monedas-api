@@ -1,4 +1,4 @@
-<h1 align="center"> com.aluracursos.principal.Conversor de monedas usando ExchangeRate API</h1>
+<h1 align="center"> Conversor de monedas usando ExchangeRate API</h1>
 <img width="900" height="512" alt="png-clipart-currency-converter-money-trade-euro-euro-text-investment" src="https://github.com/user-attachments/assets/1147f05c-3917-4ef9-970d-e235797cd9ac" />
 
 
