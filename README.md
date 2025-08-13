@@ -8,7 +8,8 @@
 * [Herramientas y tegnologías utilizadas](#herramientas-y-tegnologías-utilizadas)
 * [Función del proyecto](#función-del-proyecto)
 * [Conociendo la API](#conociendo-la-api)
-
+* [Ejemplo de ejecución](#ejemplo-de-ejecución)
+  
 <h2>Descripción del proyecto :speaker:</h2>
 Este proyecto consiste en una aplicación Java de consola que permite convertir montos entre distintas monedas utilizando tasas de cambio en tiempo real proporcionadas por ExchangeRate API.
 
